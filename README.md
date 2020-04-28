@@ -2,6 +2,8 @@ CharityML
 
 A machine learning model to make prediction of the chances of a person to be potential donar based on his/her current annual income and different feature set!
 
+DataSet was taken from kaggle donarML competition and is used with due credits to the owner!
+
 Model is trained and benchmarked on three algorithms :
 
   1.) Decision Tree classifier 
